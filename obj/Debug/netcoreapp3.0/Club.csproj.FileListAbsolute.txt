@@ -1,0 +1,11 @@
+C:\Users\MR BAKARE.M\Club\obj\Debug\netcoreapp3.0\Club.csprojAssemblyReference.cache
+C:\Users\MR BAKARE.M\Club\obj\Debug\netcoreapp3.0\Club.AssemblyInfoInputs.cache
+C:\Users\MR BAKARE.M\Club\obj\Debug\netcoreapp3.0\Club.AssemblyInfo.cs
+C:\Users\MR BAKARE.M\Club\bin\Debug\netcoreapp3.0\Club.exe
+C:\Users\MR BAKARE.M\Club\bin\Debug\netcoreapp3.0\Club.deps.json
+C:\Users\MR BAKARE.M\Club\bin\Debug\netcoreapp3.0\Club.runtimeconfig.json
+C:\Users\MR BAKARE.M\Club\bin\Debug\netcoreapp3.0\Club.runtimeconfig.dev.json
+C:\Users\MR BAKARE.M\Club\bin\Debug\netcoreapp3.0\Club.dll
+C:\Users\MR BAKARE.M\Club\bin\Debug\netcoreapp3.0\Club.pdb
+C:\Users\MR BAKARE.M\Club\obj\Debug\netcoreapp3.0\Club.dll
+C:\Users\MR BAKARE.M\Club\obj\Debug\netcoreapp3.0\Club.pdb
