@@ -30,7 +30,7 @@ namespace Club
             {
                 Console.WriteLine("Welcome to Halimat's club, what would you like to drink");
             }
-            else if(age <=11)
+            else if(Myage <=11)
             {
                 Console.WriteLine("Are you lost,Do you know your guidian's phone number");
             }
@@ -46,7 +46,7 @@ namespace Club
             {
                 Console.WriteLine("Welcome to Halimat's club, what would you like to drink");
             }
-            else if (age <=11)
+            else if (Hisage <=11)
             {
                 Console.WriteLine("Are you lost,Do you know your guidian's phone number");
             }
